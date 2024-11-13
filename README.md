@@ -1,7 +1,6 @@
 ![Build Status](https://img.shields.io/github/actions/workflow/status/jefeish/merge-guard-app/ci.yml?branch=main)
 ![License](https://img.shields.io/github/license/jefeish/merge-guard-app)
 ![Version](https://img.shields.io/github/v/release/jefeish/merge-guard-app)
-![Contributors](https://img.shields.io/github/contributors/jefeish/merge-guard-app)
 ![Languages](https://img.shields.io/github/languages/top/jefeish/merge-guard-app)
 ![Repo Size](https://img.shields.io/github/repo-size/jefeish/merge-guard-app)
 
