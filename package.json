@@ -1,0 +1,31 @@
+{
+  "name": "merge-guard-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A GitHub Probot app that enforces merge commit comment standards.",
+  "author": "Jürgen Efeish (@jefeish)",
+  "license": "MIT",
+  "homepage": "https://github.com/jefeish/merge-guard-app",
+  "keywords": [
+    "probot",
+    "github",
+    "probot-app"
+  ],
+  "scripts": {
+    "start": "probot run ./src/index.js",
+    "dev": "nodemon --exec \"npm start\"",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "probot": "^13.0.1"
+  },
+  "devDependencies": {
+    "nock": "^14.0.0-beta.5",
+    "smee-client": "^2.0.0"
+  },
+  "engines": {
+    "node": ">= 18"
+  },
+  "type": "module"
+}
